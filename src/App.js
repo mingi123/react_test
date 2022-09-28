@@ -24,7 +24,7 @@ export default function App() {
   }
 
   // function Modal() {
-  //     return(21312
+  //     return(
   //       <div className="modal">
   //         <h2>제목</h2>
   //         <p>날씨</p>
